@@ -1,13 +1,4 @@
-/**********************************
- * This software is created by Istiaq Ahmed.
- * for any kind of help
- * email: istiaqahmed90@gmail.com
- * Mobile : +8801814 160 320
- * country: Bangladesh
- * University: AIUB
- * 
- * 
- **********************************/
+
 
 package home.calculator;
 
